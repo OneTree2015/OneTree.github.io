@@ -1,4 +1,4 @@
-theme: jekyll-theme-tactile
+theme: jekyll-theme-architect
 
 markdown: kramdown
 markdown_ext:  markdown,mkd,mkdn,md
